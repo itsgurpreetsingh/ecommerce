@@ -22,9 +22,6 @@ Registration page allows users to create an account on the website. By creating 
 <img width="860" alt="image" src="https://user-images.githubusercontent.com/132483870/236027659-37d55e1a-97c1-4663-8a1e-75091a68f936.png">
 Contact page is for users to contact with the customer care if users are facing any issues. Available 24/7 to answer the user's queries.
 
-### Account Information:
-<img width="853" alt="image" src="https://user-images.githubusercontent.com/132483870/236029988-d2bfd3d8-444a-4c49-b55e-3fb5422038e8.png">
-Users can view their Account information, check their order details and change their password here.
 
 ### Database(JSON):
 <img width="917" alt="image" src="![image](https://github.com/itsgurpreetsingh/ecommerce/assets/79744977/6ee53f55-71ec-4ac0-9880-bdb3f5b0b75b)
