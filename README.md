@@ -20,7 +20,6 @@ Registration page allows users to create an account on the website. By creating 
 
 
 ### Database(JSON):
-<img width="917" alt="image" src="![image](https://github.com/itsgurpreetsingh/ecommerce/assets/79744977/6ee53f55-71ec-4ac0-9880-bdb3f5b0b75b")
-">
+<img width="917" alt="image" src="https://github.com/itsgurpreetsingh/ecommerce/assets/79744977/6ee53f55-71ec-4ac0-9880-bdb3f5b0b75b">
 
 
