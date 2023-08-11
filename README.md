@@ -27,6 +27,7 @@ Contact page is for users to contact with the customer care if users are facing 
 Users can view their Account information, check their order details and change their password here.
 
 ### Database(JSON):
-<img width="917" alt="image" src="https://user-images.githubusercontent.com/132483870/236184449-aa5a7287-735a-432f-8d95-4a94791deb59.png">
+<img width="917" alt="image" src="![image](https://github.com/itsgurpreetsingh/ecommerce/assets/79744977/6ee53f55-71ec-4ac0-9880-bdb3f5b0b75b)
+">
 
 
