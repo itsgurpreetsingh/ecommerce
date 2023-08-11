@@ -19,7 +19,7 @@ Registration page allows users to create an account on the website. By creating 
 <img width="887" alt="image" src="https://user-images.githubusercontent.com/132483870/236027934-85fe42a7-2934-4bca-b416-8d72a332929d.png">
 
 
-### Database(JSON):
+### Database(JSON.bin):
 <img width="917" alt="image" src="https://github.com/itsgurpreetsingh/ecommerce/assets/79744977/6ee53f55-71ec-4ac0-9880-bdb3f5b0b75b">
 
 
