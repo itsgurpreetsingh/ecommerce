@@ -13,7 +13,7 @@ app.post("/", function(req, res) {
 
   axios.get("https://api.jsonbin.io/v3/b/64d642679d312622a38f9d7b", {
     headers: {
-      "X-Master-Key": "$2b$10$ANGnT.vWssHtOMIAD/1AuezaDNfanb0DqYYyuW7RzI1vc3zHxt1BG"
+      "X-Master-Key": process.env.mkey
     }
   })
   .then(response => {
@@ -43,7 +43,7 @@ app.post("/signup", function(req, res) {
   };
   axios.get("https://api.jsonbin.io/v3/b/64d642679d312622a38f9d7b", {
     headers: {
-      "X-Master-Key": "$2b$10$ANGnT.vWssHtOMIAD/1AuezaDNfanb0DqYYyuW7RzI1vc3zHxt1BG"
+      "X-Master-Key": process.env.mkey
     }
   })
   .then(response => {
@@ -53,7 +53,7 @@ app.post("/signup", function(req, res) {
     axios.put("https://api.jsonbin.io/v3/b/64d642679d312622a38f9d7b",data, {
       headers: {
         "Content-Type": "application/json",
-        "X-Master-Key": "$2b$10$ANGnT.vWssHtOMIAD/1AuezaDNfanb0DqYYyuW7RzI1vc3zHxt1BG"
+        "X-Master-Key": process.env.mkey
       }
     })
     .then(response => {
